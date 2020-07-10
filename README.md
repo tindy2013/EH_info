@@ -6,7 +6,7 @@
 
 ## USAGE
 
-如果你也想使用，只需要下载 `main.py` 即可。下载 `Python3.6+` 编译器然后在终端执行：
+如果你也想使用，只需要下载 `main.py` 和 `requirements.txt` 即可。下载 `Python3.6+` 编译器然后在终端执行：
 
 ```bash
 # 安装依赖
